@@ -4,7 +4,7 @@ A Leiningen template for FIXME.
 
 ## Usage
 
-FIXME
+    lein new lein-template myapp
 
 ## License
 
