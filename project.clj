@@ -1,4 +1,4 @@
-(defproject solasistim/lein-template "0.2.0"
+(defproject solasistim/lein-template "0.2.1"
   :description "Personal lein template"
   :url "http://www.solasistim.net/"
   :license {:name "MIT"
