@@ -1,14 +1,17 @@
 # lein-template
 
-A Leiningen template for FIXME.
+A Leiningen template for Clojure apps.
 
 ## Usage
+
+If you don't have the template checked out:
+
+    lein new amoe myapp
+
+If you do have the template checked out:
 
     lein new lein-template myapp
 
 ## License
 
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+This template is MIT-licensed.

@@ -1,6 +1,6 @@
-(defproject lein-template/lein-template "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
-  :license {:name "Eclipse Public License"
-            :url "http://www.eclipse.org/legal/epl-v10.html"}
+(defproject solasistim/lein-template "0.1.0-SNAPSHOT"
+  :description "Personal lein template"
+  :url "http://www.solasistim.net/"
+  :license {:name "MIT"
+            :url "http://opensource.org/licenses/MIT"}
   :eval-in-leiningen true)
