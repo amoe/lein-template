@@ -27,4 +27,5 @@
              [".gitignore" (slurp-file "gitignore")]
              ["project.clj" (expand-mustache "project.clj" data)]
              ["resources/logback.xml" (expand-mustache "logback.xml" data)]
+             [".travis.yml" (slurp-file "travis.yml")]
              ["literal_file.dat" (slurp-file "literal_file.dat")])))
