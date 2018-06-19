@@ -6,7 +6,7 @@ A Leiningen template for Clojure apps.
 
 If you don't have the template checked out:
 
-    lein new amoe myapp
+    lein new solasistim myapp
 
 If you do have the template checked out:
 
